@@ -8,4 +8,5 @@
 
 
 [//]: # (🔱 Bonjour, I’m @ODYSSE3US And This Is My GitHub)
-
+## Currently Im Listening To:
+[![Spotify](https://spotify-eq.vercel.app/api/spotify)]
