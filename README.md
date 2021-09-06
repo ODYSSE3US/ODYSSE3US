@@ -10,4 +10,4 @@
 [//]: # (🔱 Bonjour, I’m @ODYSSE3US And This Is My GitHub)
 #### Currently Im Listening To:
 
-[![Spotify](https://spotify-eq-pvhscgguk-odysse3us.vercel.app/api/spotify)](https://open.spotify.com/)
+[![Spotify](https://spotify-eq-hqhu2hafo-odysse3us.vercel.app/api/spotify)](https://open.spotify.com/)
