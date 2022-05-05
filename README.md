@@ -13,4 +13,4 @@
 
 #### What I'm Currently Listening To & My Most Used Languages:
 
-[![Spotify](https://spotify-eq-721j1pgb6-odysse3us.vercel.app/api/spotify)](https://open.spotify.com/) [![lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=odysse3us&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact)]()
+[![Spotify](https://spotify-eq-721j1pgb6-odysse3us.vercel.app/api/spotify)](https://open.spotify.com/) [![lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=odysse3us&show_icons=true&theme=tokyonight&title_color=006eff&text_color=ffa200&hide_border=true&locale=en&layout=compact)]()
